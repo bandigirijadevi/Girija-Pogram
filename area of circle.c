@@ -1,7 +1,7 @@
 #include<stdio.h>
 float cal_area(float r)
 
-int main()
+int  main()
 {
     float area, radius;
     printf("Enter the radius of the circle \n");
